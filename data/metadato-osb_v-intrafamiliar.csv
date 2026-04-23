@@ -1,0 +1,29 @@
+METADATO;DESCRIPCION
+Serie de tiempo desde;2013
+Definición del indicador;Número de casos de violencia intrafamiliar en la ciudad por cada 100.000 habitantes
+Utilidad;La tasa de violencia intrafamiliar se constituye en uno de los principales indicadores de los problemas prioritarios en salud mental, permite comparar las frecuencias según localidad y focalizar los esfuerzos a los territorios más afectados.evento
+Unidad de medición;Tasa por 100.000 habitantes
+Periodicidad;Semestral
+Fuente;Subsistema de vigilancia epidemiológica de la violencia intrafamiliar, maltrato infantil y violencia sexual – SIVIM
+Año;Periodo de recolección de información
+Grupo de edad;Grupo al que pertenece el caso según la edad al momento de ocurrencia
+Sexo;Categoría dada al caso de violencia según sea hombre o mujer
+Localidad de Residencia;Localidad de residencia del caso notificado
+Tipo de aseguramiento;Régimen de seguridad social del casos notificado al momento de la ocurrencia
+Entidad administradora;Empresa adiministradora de planes y beneficios
+Relación con agresor;Relación d e la víctima con su agresor
+Orientación sexual;Atracción emocional, romántica, sexual o afectiva duradera hacia personas de un género diferente al propio, del mismo género o de más de un género.
+Gestante;Notificaciones de gestantes
+Estrato;Sistema de clasificación que agrupa viviendas y predios según sus características físicas y condiciones socioeconómicas
+País procedencia;País de donde proviene la persona notificada
+Ciclo vital;Etapas de desarrollo humano que se suceden desde la concepción hasta la muerte, abarcando aspectos biológicos, psicológicos y sociales.
+Estado civil ;Tipo de condición legal de una persona en relación con su estado matrimonial y familiar. 
+Nivel educativo;Tipo de nivel educativo de la persona notificada
+agresor consumospa;Notificaciones de personas agresoras que consumieron SPA
+victima consumospa;Notificaciones  de personas víctimas que consumieron SPA
+Lugar de ocurrencia de la violencia emocional;Lugar en el que se registra el caso de violencia, su sumatoria da cuenta de los casos por tipo de violencia totales
+Lugar de ocurrencia de la violencia física;Lugar en el que se registra el caso de violencia,   su sumatoria da cuenta de los casos por tipo de violencia, se debe quitar los sin dato
+Lugar de ocurrencia de la violencia Sexual;Lugar en el que se registra el caso de violencia,   su sumatoria da cuenta de los casos por tipo de violencia, se debe quitar los sin dato
+Lugar de ocurrencia de la violencia Económica;Lugar en el que se registra el caso de violencia,   su sumatoria da cuenta de los casos por tipo de violencia, se debe quitar los sin dato
+Lugar de ocurrencia de la violencia Negligencia;Lugar en el que se registra el caso de violencia,   su sumatoria da cuenta de los casos por tipo de violencia, se debe quitar los sin dato
+Lugar de ocurrencia de la violencia Abandono;Lugar en el que se registra el caso de violencia,   su sumatoria da cuenta de los casos por tipo de violencia, se debe quitar los sin dato
